@@ -14,7 +14,6 @@ Personal configuration files for development environment.
 
 - Neovim >= 0.8
 - Tmux >= 3.0
-- Git
 
 ## Installation
 
