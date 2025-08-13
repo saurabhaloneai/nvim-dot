@@ -5,7 +5,7 @@ cat > README.md << 'EOF'
 
 Personal configuration files for development environment.
 
-## Contents
+## contents
 
 - **Neovim** (`nvim/`) - Neovim configuration with plugins and custom settings
 - **Tmux** (`tmux/`) - Terminal multiplexer configuration
