@@ -21,7 +21,7 @@ Personal configuration files for development environment.
 1. Clone this repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/.dotfiles
-cd ~/.dotfiles
+cd ~/.nvim-dot files
 
 2. Run the install script:
 
